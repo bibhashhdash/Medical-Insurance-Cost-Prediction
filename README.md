@@ -10,13 +10,13 @@ The objective of this project is to develop a predictive model that accurately e
 
 ## Dataset
 
- The dataset contains information on 1,338 individuals and is freely available in public domain repositories like Kaggle.
- Dataset : [insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance)
+The dataset contains information on 1,338 individuals and is freely available in public domain repositories like Kaggle.
+Dataset : [insurance.csv](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
  ## Algorithms Used
 
 - Linear Regression
-- - Polynomial Regression
+- Polynomial Regression
 
 ## Technologies Used
 
